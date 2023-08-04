@@ -1,4 +1,4 @@
- # AutoSearch
+ # googleSearch.py
 
 This repository contains a script to automate searches into the Google's Search Engine.
 These projects are intended to be an easy way to practice coding while requiring little to no knowledge of programming.

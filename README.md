@@ -1,17 +1,12 @@
- # googleSearch.py
+# Python-Scripts
 
-This repository contains a script to automate searches into the Google's Search Engine.
+This repository contains an assortment of python scripts based on Python 3.6  
 These projects are intended to be an easy way to practice coding while requiring little to no knowledge of programming.
 Check the README.md files within each directory for more information.
 
 ## Getting Started
 
-Just clone/download the files and any dependencies for your project then run the script using the "python autoSearch.py".
-
-*pipe searches using:
-  - $ echo [search_term] | python3 googleSearch.py
-  - **or**
-  - $ echo [file.ext] | python3 googleSearch.py
+Just clone/download the files and any dependencies for your project then run the script using the "python3 fileName.py".
 
 ### Prerequisites
 
@@ -20,12 +15,14 @@ You can download Python many various ways:
 1. Python's website: https://www.python.org/
 2. Repository: Most if not all linux distros have a repository containing python that can be accessed using the below
 example commands (more information can be found by accessing the manual/help page for your operating system):
-  - For Debian/GNU Linux: $ sudo apt-get install python36
-  - RedHat: $ sudo dnf install python36
+ - For Debian/GNU Linux: $ sudo apt-get install python36
+ - RedHat: $ sudo yum install python36
 
 Occasionally scripts may require dependencies; the easiest way to properly install them is by:
-1. Searching github repositories and clone/download the appropriate .zip for your project.  This can be done in a web browser
-or thru the "git clone ssh://git@github.com/[username]/[repository-name].git	" command.  Once downloaded, import the library
+1. Searching github repositories and clone/download the appropriate .zip for your project.  This can be done in
+ - a web browser
+ - **or**
+ - thru the "git clone ssh://git@github.com/[username]/[repository-name].git" command.  Once downloaded, import the library
 and restart your IDE.
 
 ### Example installation

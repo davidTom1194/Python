@@ -50,7 +50,7 @@ See also the list of [contributors](https://github.com/davidTom1194/contributors
 
 ## License
 
-This project is licensed under the GNU General Public License Version 3 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License Version 3 - see the [LICENSE](https://github.com/davidTom1194/davidTom1194/blob/main/LICENSE) file for details
 
 ## Acknowledgements
 

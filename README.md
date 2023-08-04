@@ -43,7 +43,7 @@ code of conduct, and the process for submitting pull requests to us.
 ## Authors
 
 * **David Tom** - *Initial Work* - [davidTom1194](https://github.com/davidTom1194)
-See also the list of [contributors](https://github.com/davidTom1194/contributors)
+See also the list of [contributors](https://github.com/davidTom1194/davidTom1194/blob/main/contributors)
 
 ## License
 
